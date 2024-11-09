@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s}from"./chunks/framework.GYzjcnJh.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"devops/ansible/vars.md","filePath":"devops/ansible/vars.md"}'),t={name:"devops/ansible/vars.md"};function r(o,n,c,p,d,i){return s(),a("div")}const m=e(t,[["render",r]]);export{l as __pageData,m as default};

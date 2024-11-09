@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.GYzjcnJh.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/二进制部署k8s集群.md","filePath":"k8s/二进制部署k8s集群.md"}'),a={name:"k8s/二进制部署k8s集群.md"};function r(_,o,c,n,p,d){return s(),t("div")}const m=e(a,[["render",r]]);export{k as __pageData,m as default};

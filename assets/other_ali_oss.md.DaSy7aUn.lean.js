@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a4 as l}from"./chunks/framework.GYzjcnJh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"other/ali_oss.md","filePath":"other/ali_oss.md"}'),e={name:"other/ali_oss.md"},p=l("",38),o=[p];function t(c,r,i,d,u,b){return n(),a("div",null,o)}const h=s(e,[["render",t]]);export{m as __pageData,h as default};

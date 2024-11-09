@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/dns.md","filePath":"linux/dns.md"}'),p={name:"linux/dns.md"},e=l("",35),o=[e];function r(c,t,i,y,m,b){return a(),n("div",null,o)}const B=s(p,[["render",r]]);export{u as __pageData,B as default};

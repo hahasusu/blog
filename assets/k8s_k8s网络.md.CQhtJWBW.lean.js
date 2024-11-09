@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as a,a4 as r}from"./chunks/framework.GYzjcnJh.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/k8s网络.md","filePath":"k8s/k8s网络.md"}'),t={name:"k8s/k8s网络.md"},s=r("",11),l=[s];function i(n,d,c,h,P,u){return a(),o("div",null,l)}const p=e(t,[["render",i]]);export{g as __pageData,p as default};

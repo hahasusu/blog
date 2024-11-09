@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>博客展示ovo-博客展示ovo</title>
+    <meta name="description" content="A VitePress site">
+    <meta name="generator" content="VitePress v1.3.1">
+    <link rel="preload stylesheet" href="/blog/assets/style.C3IpHLV0.css" as="style">
+    <script type="module" src="/blog/assets/chunks/metadata.1c2bbd70.js"></script>
+    <script type="module" src="/blog/assets/app.B-PRbVRY.js"></script>
+    <link rel="preload" href="/blog/assets/inter-roman-latin.Di8DUHzh.woff2" as="font" type="font/woff2" crossorigin="">
+    <link rel="modulepreload" href="/blog/assets/chunks/framework.GYzjcnJh.js">
+    <link rel="modulepreload" href="/blog/assets/chunks/theme.Cm92knlu.js">
+    <link rel="modulepreload" href="/blog/assets/api_py_retry.md.Bv2PH0ZN.lean.js">
+    <script id="check-dark-mode">(()=>{const e=localStorage.getItem("vitepress-theme-appearance")||"auto",a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
+    <script id="check-mac-os">document.documentElement.classList.toggle("mac",/Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
+  </head>
+  <body>
+    <div id="app"><div class="Layout custom-page-bg" data-v-5d98c3a5><!--[--><!--]--><!--[--><span tabindex="-1" data-v-0f60ec36></span><a href="#VPContent" class="VPSkipLink visually-hidden" data-v-0f60ec36> Skip to content </a><!--]--><!----><!----><div class="VPLocalNav empty fixed" data-v-5d98c3a5 data-v-a6f0e41e><div class="container" data-v-a6f0e41e><!----><div class="VPLocalNavOutlineDropdown" style="--vp-vh:0px;" data-v-a6f0e41e data-v-17a5e62e><button data-v-17a5e62e>返回顶部</button><!----></div></div></div><!----><div class="VPContent" id="VPContent" data-v-5d98c3a5 data-v-1428d186><div class="VPPage" data-v-1428d186><!--[--><!--]--><div style="position:relative;"><div><div class="language-py line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">py</span><pre class="shiki material-theme-lighter vp-code" tabindex="0"><code><span class="line"><span style="color:#9C3EDA;">def</span><span style="color:#6182B8;"> retry</span><span style="color:#39ADB5;">(</span><span style="color:#90A4AE;font-style:italic;">func</span><span style="color:#39ADB5;">):</span></span>
+<span class="line"><span style="color:#9C3EDA;">    def</span><span style="color:#6182B8;"> wrapper</span><span style="color:#39ADB5;">(*</span><span style="color:#90A4AE;font-style:italic;">args</span><span style="color:#39ADB5;">,</span><span style="color:#39ADB5;"> **</span><span style="color:#90A4AE;font-style:italic;">kwargs</span><span style="color:#39ADB5;">):</span></span>
+<span class="line"><span style="color:#90A4AE;">        i </span><span style="color:#39ADB5;">=</span><span style="color:#F76D47;"> 0</span></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">        while</span><span style="color:#90A4AE;"> i </span><span style="color:#39ADB5;">&lt;</span><span style="color:#F76D47;"> 3</span><span style="color:#39ADB5;">:</span></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">            try</span><span style="color:#39ADB5;">:</span></span>
+<span class="line"><span style="color:#90A4AE;">                result </span><span style="color:#39ADB5;">=</span><span style="color:#6182B8;"> func</span><span style="color:#39ADB5;">(*</span><span style="color:#6182B8;">args</span><span style="color:#39ADB5;">,</span><span style="color:#39ADB5;"> **</span><span style="color:#6182B8;">kwargs</span><span style="color:#39ADB5;">)</span></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">            except</span><span style="color:#E2931D;"> Exception</span><span style="color:#39ADB5;font-style:italic;"> as</span><span style="color:#90A4AE;"> e</span><span style="color:#39ADB5;">:</span></span>
+<span class="line"><span style="color:#90A4AE;">                i </span><span style="color:#39ADB5;">+=</span><span style="color:#F76D47;"> 1</span></span>
+<span class="line"><span style="color:#6182B8;">                print</span><span style="color:#39ADB5;">(</span><span style="color:#39ADB5;">&quot;</span><span style="color:#91B859;">retry</span><span style="color:#39ADB5;">&quot;</span><span style="color:#39ADB5;">,</span><span style="color:#6182B8;"> i</span><span style="color:#39ADB5;">,</span><span style="color:#6182B8;"> e</span><span style="color:#39ADB5;">)</span></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">            else</span><span style="color:#39ADB5;">:</span></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">                break</span></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">        return</span><span style="color:#90A4AE;"> result</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#39ADB5;font-style:italic;">    return</span><span style="color:#90A4AE;"> wrapper</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br></div></div></div></div><!--[--><!--]--></div></div><!----><!--[--><!--]--></div></div>
+    
+    
+  </body>
+</html>

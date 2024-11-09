@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.GYzjcnJh.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"promethus/服务发现.md","filePath":"promethus/服务发现.md"}'),a={name:"promethus/服务发现.md"};function o(s,c,n,_,p,m){return r(),t("div")}const f=e(a,[["render",o]]);export{i as __pageData,f as default};

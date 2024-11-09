@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.GYzjcnJh.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/nvim-lsp.md","filePath":"linux/nvim-lsp.md"}'),a={name:"linux/nvim-lsp.md"};function s(r,i,o,c,p,l){return n(),t("div")}const d=e(a,[["render",s]]);export{_ as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/yum-dnf.md","filePath":"linux/yum-dnf.md"}'),p={name:"linux/yum-dnf.md"},e=l("",10),o=[e];function r(c,t,i,y,u,m){return a(),n("div",null,o)}const d=s(p,[["render",r]]);export{A as __pageData,d as default};

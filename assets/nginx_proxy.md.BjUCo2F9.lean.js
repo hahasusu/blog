@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nginx/proxy.md","filePath":"backend/nginx/proxy.md"}'),e={name:"nginx/proxy.md"},p=l("",5),o=[p];function r(c,t,i,y,b,d){return a(),n("div",null,o)}const _=s(e,[["render",r]]);export{u as __pageData,_ as default};

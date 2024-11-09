@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.GYzjcnJh.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"devops/ansible/init.md","filePath":"devops/ansible/init.md"}'),n={name:"devops/ansible/init.md"};function s(i,o,r,c,p,d){return a(),t("div")}const m=e(n,[["render",s]]);export{l as __pageData,m as default};

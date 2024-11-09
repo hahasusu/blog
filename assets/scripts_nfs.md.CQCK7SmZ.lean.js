@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"scripts/nfs.md","filePath":"scripts/nfs.md"}'),p={name:"scripts/nfs.md"},e=l("",1),o=[e];function r(t,c,i,y,b,u){return a(),n("div",null,o)}const d=s(p,[["render",r]]);export{A as __pageData,d as default};

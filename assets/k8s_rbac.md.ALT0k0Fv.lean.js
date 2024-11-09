@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a4 as t}from"./chunks/framework.GYzjcnJh.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/rbac.md","filePath":"k8s/rbac.md"}'),n={name:"k8s/rbac.md"},r=t("",1),c=[r];function o(i,_,d,l,p,m){return s(),a("div",null,c)}const u=e(n,[["render",o]]);export{h as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,a4 as t}from"./chunks/framework.GYzjcnJh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/kubesphere.md","filePath":"k8s/kubesphere.md"}'),n={name:"k8s/kubesphere.md"},r=t("",1),o=[r];function l(p,c,i,d,_,h){return a(),s("div",null,o)}const b=e(n,[["render",l]]);export{m as __pageData,b as default};

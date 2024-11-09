@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a4 as e}from"./chunks/framework.GYzjcnJh.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/k8s安装.md","filePath":"k8s/k8s安装.md"}'),l={name:"k8s/k8s安装.md"},p=e("",2),t=[p];function r(o,c,i,b,m,u){return n(),a("div",null,t)}const _=s(l,[["render",r]]);export{d as __pageData,_ as default};

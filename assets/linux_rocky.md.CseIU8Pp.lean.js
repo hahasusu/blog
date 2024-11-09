@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/rocky.md","filePath":"linux/rocky.md"}'),p={name:"linux/rocky.md"},e=l("",20),r=[e];function o(c,t,i,y,A,b){return a(),n("div",null,r)}const B=s(p,[["render",o]]);export{m as __pageData,B as default};

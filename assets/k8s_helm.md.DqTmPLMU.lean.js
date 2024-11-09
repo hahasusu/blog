@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a4 as n}from"./chunks/framework.GYzjcnJh.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/helm.md","filePath":"k8s/helm.md"}'),l={name:"k8s/helm.md"},t=n("",2),o=[t];function p(r,c,i,h,m,_){return e(),a("div",null,o)}const b=s(l,[["render",p]]);export{u as __pageData,b as default};

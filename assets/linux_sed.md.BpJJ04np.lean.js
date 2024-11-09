@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const A=JSON.parse('{"title":"Sed","description":"","frontmatter":{},"headers":[],"relativePath":"linux/sed.md","filePath":"linux/sed.md"}'),p={name:"linux/sed.md"},e=l("",14),o=[e];function t(c,r,i,y,b,d){return a(),n("div",null,o)}const m=s(p,[["render",t]]);export{A as __pageData,m as default};

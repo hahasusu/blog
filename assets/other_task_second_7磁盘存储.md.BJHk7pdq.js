@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.GYzjcnJh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"other/task/second/7磁盘存储.md","filePath":"other/task/second/7磁盘存储.md"}'),o={name:"other/task/second/7磁盘存储.md"};function s(r,c,n,_,d,p){return a(),t("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};

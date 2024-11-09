@@ -1,0 +1,1 @@
+import{_ as s,c as a,o,a4 as n}from"./chunks/framework.GYzjcnJh.js";const i=JSON.parse('{"title":"安装","description":"","frontmatter":{},"headers":[],"relativePath":"tools/wt.md","filePath":"tools/wt.md"}'),l={name:"tools/wt.md"},p=n("",37),t=[p];function e(r,c,y,A,D,B){return o(),a("div",null,t)}const q=s(l,[["render",e]]);export{i as __pageData,q as default};

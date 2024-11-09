@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"db/redis/哨兵.md","filePath":"backend/db/redis/哨兵.md"}'),e={name:"db/redis/哨兵.md"},p=l("",13),t=[p];function o(r,i,c,y,m,b){return a(),n("div",null,t)}const A=s(e,[["render",o]]);export{d as __pageData,A as default};

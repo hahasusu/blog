@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/vim.md","filePath":"linux/vim.md"}'),p={name:"linux/vim.md"},e=l("",20),t=[e];function o(r,c,i,d,b,m){return a(),n("div",null,t)}const B=s(p,[["render",o]]);export{y as __pageData,B as default};

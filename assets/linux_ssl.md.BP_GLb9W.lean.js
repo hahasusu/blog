@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,a4 as n}from"./chunks/framework.GYzjcnJh.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/ssl.md","filePath":"linux/ssl.md"}'),l={name:"linux/ssl.md"},o=n("",45),p=[o];function t(r,c,i,d,h,m){return e(),s("div",null,p)}const y=a(l,[["render",t]]);export{b as __pageData,y as default};

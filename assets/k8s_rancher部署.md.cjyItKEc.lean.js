@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as l}from"./chunks/framework.GYzjcnJh.js";const B=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/rancher部署.md","filePath":"k8s/rancher部署.md"}'),p={name:"k8s/rancher部署.md"},e=l("",12),o=[e];function r(c,t,i,b,y,m){return a(),n("div",null,o)}const A=s(p,[["render",r]]);export{B as __pageData,A as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as e}from"./chunks/framework.GYzjcnJh.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"promethus/安装.md","filePath":"promethus/安装.md"}'),l={name:"promethus/安装.md"},p=e("",7),o=[p];function r(t,c,i,y,m,u){return a(),n("div",null,o)}const h=s(l,[["render",r]]);export{d as __pageData,h as default};

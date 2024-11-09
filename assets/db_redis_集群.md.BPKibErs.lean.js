@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a4 as e}from"./chunks/framework.GYzjcnJh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"db/redis/集群.md","filePath":"backend/db/redis/集群.md"}'),l={name:"db/redis/集群.md"},p=e("",14),r=[p];function o(t,c,i,d,b,u){return n(),a("div",null,r)}const h=s(l,[["render",o]]);export{m as __pageData,h as default};

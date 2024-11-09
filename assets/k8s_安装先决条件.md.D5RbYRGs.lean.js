@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as e,a4 as a}from"./chunks/framework.GYzjcnJh.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"k8s/安装先决条件.md","filePath":"k8s/安装先决条件.md"}'),l={name:"k8s/安装先决条件.md"},p=a("",17),r=[p];function o(t,c,i,d,b,u){return e(),n("div",null,r)}const h=s(l,[["render",o]]);export{y as __pageData,h as default};

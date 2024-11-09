@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.GYzjcnJh.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"promethus/promql.md","filePath":"promethus/promql.md"}'),o={name:"promethus/promql.md"};function a(s,p,m,c,n,l){return r(),t("div")}const i=e(o,[["render",a]]);export{d as __pageData,i as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a4 as e}from"./chunks/framework.GYzjcnJh.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"linux/ntp.md","filePath":"linux/ntp.md"}'),l={name:"linux/ntp.md"},p=e("",17),t=[p];function c(o,r,i,d,b,m){return a(),n("div",null,t)}const h=s(l,[["render",c]]);export{u as __pageData,h as default};
